@@ -90,6 +90,13 @@ WHEN 'frm_AssTr_EcGenerique_Recherche' THEN
 										 END   
                   -- Critere Catégorie comptable (position 21)
 									,	CASE
+
+
+
+## Résultat final 
+
+![image](https://github.com/MathisCastell/stage-2-Ajout-de-crit-res-de-recherche/assets/148212506/7bba3570-8a49-4f85-b05c-0e9db12744e2)
+
 											WHEN IFNULL(var_filtre_21,'') NOT IN ('', '-1') THEN CONCAT(" AND  op.DCreation &lt;='",IFNULL(var_filtre_21,''),"'")
 											ELSE ""
 										 END 
