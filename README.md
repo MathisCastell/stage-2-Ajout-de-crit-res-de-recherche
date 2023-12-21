@@ -29,6 +29,11 @@ J'ai ajouté des éléments pour afficher les critères de recherche
 
 ![image](https://github.com/MathisCastell/stage-2-Ajout-de-crit-res-de-recherche/assets/148212506/97f864fd-debf-474a-80e8-0950a205d306)
 
+WHERE de la requête 
+
+![image](https://github.com/MathisCastell/stage-2-Ajout-de-crit-res-de-recherche/assets/148212506/4402bac0-ec33-474a-b99f-a1da1812ad67)
+
+
 ## FONCTION SQL
 
 Ajout de partie afin des les mettres par la suite dans le WHERE de la page d'affichage
